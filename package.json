@@ -1,0 +1,12 @@
+{
+  "name": "chattr",
+  "version": "0.0.1",
+  "description": "Chattr provides an abstraction over redis pub sub that allows services to respond to their caller",
+  "main": "index.js",
+  "repository": "https://github.com/bmuk/chattr",
+  "author": "Britt Mathis",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
